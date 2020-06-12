@@ -22,7 +22,7 @@ We took some preprocessing steps prior to applying machine learning models to th
 
 Several supervised machine learning models were applied on the dataset including, and the results are shown below:
 
-| Model Name  | Recall | Precision | f1 score | Support | Balanced Accuracy Score |
+| Logistic Regression Model using Name  | Recall | Precision | f1 score | Support | Balanced Accuracy Score |
 | ----------- | ------ | --------- | -------- | ------- | ----------------------- |
 | Random Oversampling | 0.68 | 0.01 | 0.02 | 101 | 0.666 |
 | SMOTE | 0.65 | 0.01 | 0.02 | 101 | 0.661 |
